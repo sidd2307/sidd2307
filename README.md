@@ -85,9 +85,6 @@ I specialize in building pixel-perfect UIs for your websites and apps. I replica
 
 <br/>  
 
-
-## Github Stats  
-
 <br/>  
 
   
