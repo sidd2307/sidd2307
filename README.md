@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on Freelance projects and <br>🤝 I’m looking for help with Frontend development<br>🌱 I’m currently learning Web3<br>💬 Ask me about MERN Stack<br>⚡ Fun fact: If I were an Inventor, I would invent a cheap Macbook
+### Glad to see you here!  
+I'm a Full Stack developer and have taken up several freelancing and full-time roles at startups and companies like [Organic Ledger](https://www.linkedin.com/company/organicledger/), [Nirmitee.io](https://www.nirmitee.io/), [CodeKart Technologies](https://www.linkedin.com/company/codekart/), [Mastergy Education](https://www.linkedin.com/company/mastergy/). Currently I am a Full-Stack developer at [Zura Ventures](https://www.linkedin.com/company/zura-ventures/about/).
+
+I specialize in building pixel-perfect UIs for your websites and apps. I replicate a design like you can't differentiate. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. 
+
+[Discover more about me!](https://discoversid.netlify.app/)  
 
 
 ## 🌐 Socials:
