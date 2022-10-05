@@ -23,7 +23,7 @@ I specialize in building pixel-perfect UIs for your websites and apps. I replica
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 This is me most of the time
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
