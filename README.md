@@ -115,7 +115,7 @@ I enjoy connecting the dots between technology, customer problems and business o
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/2022%20%E2%80%94%202024-PREVIOUS%20EXPERIENCE-312E81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/2023%20%E2%80%94%202025-PREVIOUS%20EXPERIENCE-312E81?style=for-the-badge" />
 
 # Hughes Systique Corporation
 
@@ -190,7 +190,7 @@ Operations & Decision Sciences
 
 <br/>
 
-<img src="https://img.shields.io/badge/CGPA-3.95%20%2F%204.00-14532D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CGPA-3.95%20%2F%204.33-14532D?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Institute%20Rank-16-312E81?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Recognition-Director's%20Merit%20List-854D0E?style=for-the-badge" />
 
